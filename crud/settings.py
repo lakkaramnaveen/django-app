@@ -27,8 +27,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '18.118.111.46',
-    'localhost',
-    '127.0.0.1',
     # Add any other hostnames or IP addresses as needed
 ]
 
